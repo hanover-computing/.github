@@ -31,4 +31,4 @@ If it just so happens that it could be used in tandem with what someone else has
 If not, it's no big deal. It doesn't matter that it doesn't all build up to some value that someone else saw,
 because there is value in having built it, value in the process in and of itself - your happiness.
 
-And in the end, it's the only thing that matters, isn't it?
+Because in the end, it's the only thing that matters.
