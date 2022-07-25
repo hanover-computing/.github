@@ -1,4 +1,4 @@
-# The Hanover Computing Manifesto
+## The Hanover Computing Manifesto
 
 What do you do at your job?  
 Building some random stuff that ultimately delivers no real value to the end-users?  
