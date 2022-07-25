@@ -8,7 +8,7 @@ Being forced to cripple good software and engineering in the name of placating e
 Is this *really* why you entered this field?  
 Did you not pick up engineering to build systems that can create real value from your code?  
 Did you not pick up design to make experiencing the world through software a little bit pleasant?  
-Did you not join this industry to solve creative problems, to build things that give you joy?
+Did you not join this industry to use your creativity to solve problems, to build things that give you joy?
 
 The unfortunate truth is that for many of us, what we're paid to do 8, 9, 10, 11, or even 12 hours a day,
 kills the part of the us that was once passionate for the craft,
