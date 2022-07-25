@@ -14,7 +14,7 @@ The unfortunate truth is that for many of us, what we're paid to do 8, 9, 10, 11
 kills the part of the us that was once passionate for the craft,
 the part of us that gave us joy, the part of us that made us *care*.  
 Without it, we burn out, we no longer enjoy what we once did, and we no longer bother fighting for what we believe in,
-because the corporate environment has grinded us away until we no longer have the strength to resist.
+because the corporate environment has grinded us away until we can no longer muster the strength to resist.
 
 And this group exists to say - *enough is enough*.
 
@@ -31,4 +31,4 @@ If it just so happens that it could be used in tandem with what someone else has
 If not, it's no big deal. It doesn't matter that it doesn't all build up to some value that someone else saw,
 because there is value in having built it, value in the process in and of itself - your happiness.
 
-Because in the end, it's the only thing that matters.
+And in the end, it's the only thing that matters.
